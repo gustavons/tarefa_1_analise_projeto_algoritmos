@@ -1,0 +1,11 @@
+ND
+a,b
+c,d
+e,f
+f,g
+a,e
+e,h
+b,a
+a,a
+c,d
+f,d
